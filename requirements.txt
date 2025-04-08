@@ -1,0 +1,8 @@
+numpy
+opencv_python
+pandas
+pygame
+tensorboardX
+torch
+matplotlib
+
